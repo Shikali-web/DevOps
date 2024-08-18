@@ -1,3 +1,3 @@
 ## CI/CD Pipelines 
-[Pipelines with Kubernetes Integration](pk.md)
+[Kubernetes: A Comprehensive Guide](kubernetes.md)
 
